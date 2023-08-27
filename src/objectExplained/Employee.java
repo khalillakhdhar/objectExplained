@@ -66,6 +66,12 @@ public Employee(String nom, String prenom, String adresse, String email, int age
 // simulation de CRUD
 
 
+/*
+ * T.A.F:
+ * verifier que le nom n'est pas null 
+ * verifier que age >20 
+ * adresse >10 
+ */
 
 
 
